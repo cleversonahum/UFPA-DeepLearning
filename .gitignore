@@ -1,2 +1,3 @@
-mnist-classifiers/.ipynb_checkpoints/
+.ipynb_checkpoints/
 mnist-classifiers/data/
+*.zip
